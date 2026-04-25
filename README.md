@@ -24,7 +24,7 @@
 
 ## 📂 โครงสร้างไฟล์
 
-project/ 
+```project/ 
 │── connect.php # เชื่อมต่อฐานข้อมูล 
 │── db_bootstrap.php # ตั้งค่าฐานข้อมูล 
 │── index.php # หน้าแรก 
@@ -37,7 +37,7 @@ project/
 │── search.php # ค้นหาป้ายทะเบียน 
 │── delete_vehicle_log.php # ลบข้อมูล 
 │── style.css # ตกแต่งหน้าเว็บ 
-│── uploads/ # เก็บรูปภาพที่อัปโหลด
+│── uploads/ # เก็บรูปภาพที่อัปโหลด```
 
 ## ⚙️ วิธีติดตั้งระบบ
 
