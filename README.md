@@ -47,7 +47,7 @@ project/
 4. เข้า phpMyAdmin เพื่อสร้างฐานข้อมูล
 5. Import ไฟล์ฐานข้อมูล
 6. เปิดเว็บผ่าน:
-   http://localhost/project
+   [เปิดระบบ](http://localhost/project)
 
 ▶️ วิธีใช้งาน
 เข้าสู่ระบบด้วยบัญชีผู้ดูแลหรือเจ้าหน้าที่
@@ -65,10 +65,8 @@ project/
 Input: ข้อมูลทะเบียนรถ เช่น "กข 1234"
 Output: ข้อมูลเจ้าของรถและรายละเอียดที่เกี่ยวข้อง
 
-### 🔹 Dashboard"
-"https://github.com/user-attachments/assets/41430374-4cfc-42e9-90c0-68209959ec70"
-### 🔹 ระบบค้นหา
-"https://github.com/user-attachments/assets/cd70fa37-88bb-42bc-a6d3-e1512412a27a"
+![Dashboard](https://github.com/user-attachments/assets/41430374-4cfc-42e9-90c0-68209959ec70)
+![ระบบค้นหา](https://github.com/user-attachments/assets/cd70fa37-88bb-42bc-a6d3-e1512412a27a)
 
 👨‍💻 ผู้จัดทำ
 ชื่อ: 67101553 นายสรรศิริคำด้วง
